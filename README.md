@@ -49,8 +49,9 @@ repository to help new cs students set up their laptop for both MAC and Window
 **Step 2:** Choose the "Window" version then choose "64-bit Git for Windows Setup." => dowload it  <br />
 **Step 3:** Click the .exe git file to extract and run program
 **Step 4:** Next => Next => Click "Additional icons" => Next => "Using Visual Studio Code as Git's default editor" => Let Git Decide => Git from command lind and 3rd-party software => Use bundled openSSH => Use the OpenSSL Library => Check-out window style, commit the Unix-style line endings => USe MinTTY => Default (fast-forward and merge) => GIt Credential Manager => Enable file system caching => Next => Launch Git Bash => Finish! <br /> 
-**Step 5:** Test whether git is dowloaded by typing "git --version" in terminal
-**Step 6:** Create a hello.js by terminal in a random file path 
-**Step 7:** Initialize "git init" add that same folder
-Step 8 : ![image](https://github.com/PhuocOng/setup_repo_viettech/assets/122703392/faee90fb-3ddd-411c-9d3c-a22dd5df8229)
+**Step 5:** Test whether git is dowloaded by typing "git --version" in terminal <br />
+**Step 6:** Create a hello.js by terminal in a random file path  <br />
+**Step 7:** Initialize "git init" add that same folder <br />
+**Step 8** : git add hello.js => git commit hello.js => Then config the user.name and user.email ![image](https://github.com/PhuocOng/setup_repo_viettech/assets/122703392/faee90fb-3ddd-411c-9d3c-a22dd5df8229)
+Step 9 : git push => Follow the instructions to push to remote repo 
 
