@@ -1,6 +1,7 @@
 # setup_repo_viettech
 repository to help new cs students set up their laptop for both MAC and Window
-1. How to set up VSCode? 
+
+**HOW TO SET UP VSCODE**
 
 **Window** <br />
 **Step 1:** Go to this website https://code.visualstudio.com/  <br />
@@ -20,3 +21,22 @@ repository to help new cs students set up their laptop for both MAC and Window
 **Step 5:** "Command Shift P" + Type "shell command" into the bar => so we can open vscode by terminal <br />
 **Step 6:** (Optional) Test HTML with Live Server <br />
 **Step 7:** (Optional) Watch this tutorial: https://www.youtube.com/watch?v=w0xBQHKjoGo <br />
+
+
+**HOW TO SET UP NODE.JS**
+
+**Window**   <br />
+**Step 1:** Go to this website https://nodejs.org/en  <br />
+**Step 2:** Choose the "Recommend for most users" version then dowload it  <br />
+**Step 3:** "I accept the License agreement" => Default file location => Default Custom Setup => Ticked "Automatically dowload necessary tools" => Install!  <br />
+**Step 4:** Waiting and interact with terminal so Node.js can finish dowloading the "Chocolate" <br />
+**Step 5:** Test whether node is dowloaded by type "node -v" in terminal <br />
+**Step 6:** (Optional) Test node with hello.js file in terminal <br />
+
+**Mac** <br />
+**Step 1:** Go to this website https://nodejs.org/en  <br />
+**Step 2:** Choose the "Recommend for most users" version then dowload it  <br />
+**Step 3:** Click the ".pkg" node file to extract the file  <br />
+**Step 4:** "I accept the License agreement" => Default destination select => Default installation type => Install!  <br />
+**Step 5:** Test whether node is dowloaded by type "node -v" in terminal <br />
+**Step 6:** (Optional) Test node with hello.js file in terminal <br />
