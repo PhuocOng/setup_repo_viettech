@@ -32,6 +32,7 @@ repository to help new cs students set up their laptop for both MAC and Window
 **Step 4:** Waiting and interact with terminal so Node.js can finish dowloading the "Chocolate" <br />
 **Step 5:** Test whether node is dowloaded by type "node -v" in terminal <br />
 **Step 6:** (Optional) Test node with hello.js file in terminal <br />
+**Step 7:** (Optional) Watch this tutorial: https://www.youtube.com/watch?v=__7eOCxJyow <br />
 
 **Mac** <br />
 **Step 1:** Go to this website https://nodejs.org/en  <br />
@@ -40,3 +41,4 @@ repository to help new cs students set up their laptop for both MAC and Window
 **Step 4:** "I accept the License agreement" => Default destination select => Default installation type => Install!  <br />
 **Step 5:** Test whether node is dowloaded by type "node -v" in terminal <br />
 **Step 6:** (Optional) Test node with hello.js file in terminal <br />
+**Step 7:** (Optional) Watch this tutorial: https://www.youtube.com/watch?v=SwUKKCS3r3c <br />
