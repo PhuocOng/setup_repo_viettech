@@ -55,3 +55,8 @@ repository to help new cs students set up their laptop for both MAC and Window
 **Step 8** : git add hello.js => git commit hello.js => Then config the user.name and user.email ![image](https://github.com/PhuocOng/setup_repo_viettech/assets/122703392/faee90fb-3ddd-411c-9d3c-a22dd5df8229)
 Step 9 : git push => Follow the instructions to push to remote repo 
 
+HOW TO SET UP SSH KEY FOR GITHUB 
+Step 1: Open Git bash
+Step 2: ssh-keygen -t ed25519 -C "your_email@example.com" => Enter
+Step 3: clip < ~/.ssh/id_ed25519.pub
+
