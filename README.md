@@ -52,4 +52,5 @@ repository to help new cs students set up their laptop for both MAC and Window
 **Step 5:** Test whether git is dowloaded by typing "git --version" in terminal
 **Step 6:** Create a hello.js by terminal in a random file path 
 **Step 7:** Initialize "git init" add that same folder
-Step 8 : 
+Step 8 : ![image](https://github.com/PhuocOng/setup_repo_viettech/assets/122703392/faee90fb-3ddd-411c-9d3c-a22dd5df8229)
+
