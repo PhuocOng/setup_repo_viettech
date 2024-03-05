@@ -43,12 +43,13 @@ repository to help new cs students set up their laptop for both MAC and Window
 **Step 6:** (Optional) Test node with hello.js file in terminal <br />
 **Step 7:** (Optional) Watch this tutorial: https://www.youtube.com/watch?v=SwUKKCS3r3c <br />
 
-**HOW TO SET UP GIT**
+**HOW TO SET UP GIT** <br /> 
 **Window**   <br />
 **Step 1:** Go to this website https://git-scm.com/downloads <br />
 **Step 2:** Choose the "Window" version then choose "64-bit Git for Windows Setup." => dowload it  <br />
 **Step 3:** Click the .exe git file to extract and run program
-**Step 4:** Next => Next => Click "Additional icons" => Next => "Using Visual Studio Code as Git's default editor" => Let Git Decide => Git from command lind and 3rd-party software => Use bundled openSSH => Use the OpenSSL Library => Check-out window style, commit the Unix-style line endings => USe MinTTY => Default (fast-forward and merge) => GIt Credential Manager => Enable file system caching => Next => Launch Git Bash => Finish!
-**Step 5:** Test whether node is dowloaded by type "node -v" in terminal <br />
-**Step 6:** (Optional) Test node with hello.js file in terminal <br />
-**Step 7:** (Optional) Watch this tutorial: https://www.youtube.com/watch?v=__7eOCxJyow <br />
+**Step 4:** Next => Next => Click "Additional icons" => Next => "Using Visual Studio Code as Git's default editor" => Let Git Decide => Git from command lind and 3rd-party software => Use bundled openSSH => Use the OpenSSL Library => Check-out window style, commit the Unix-style line endings => USe MinTTY => Default (fast-forward and merge) => GIt Credential Manager => Enable file system caching => Next => Launch Git Bash => Finish! <br /> 
+**Step 5:** Test whether git is dowloaded by typing "git --version" in terminal
+**Step 6:** Create a hello.js by terminal in a random file path 
+**Step 7:** Initialize "git init" add that same folder
+Step 8 : 
