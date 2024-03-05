@@ -64,4 +64,12 @@ v10.1.0" <br />
 **Step 4:** Login to Github Account => Setting => SSH and GPG Keys => New SSH Key => Title: Personal Laptop - Key Type: Authentication key - Key: Pasting your key into here!  <br />
 **Step 5:** Test connection: "ssh -T git@github.com"
 
+**HOW TO SET UP POSTMAN** <br />
+**Window** <br />
+**Step 1:** Sign in/Sign up into https://web.postman.co/home <br />
+**Step 2:** Go to https://www.postman.com/downloads/ and dowload your version (ex: window 64-bit)  <br />
+**Step 3:** Click into .exe postman file to extract <br />
+**Step 4:** Cick Login to run the postman program <br />
+**Step 5:** If it ask for permission, ticked "allow public network" <br />
+
 
