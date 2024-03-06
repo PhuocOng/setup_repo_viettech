@@ -81,4 +81,11 @@ v10.1.0" <br />
 **Step 4:** Cick Login to run the postman program <br />
 **Step 5:** If it ask for permission, ticked "allow public network" <br />
 
+**Mac**
+**Step 1:** Sign in/Sign up into https://web.postman.co/home <br />
+**Step 2:** Go to https://www.postman.com/downloads/ and dowload your version (ex: Mac Intel Chip / Mac Apple Chip)  <br />
+**Step 3:** Click into dowloaded postman file to extract <br />
+**Step 4:** Cick Login to run the postman program <br />
+
+
 
