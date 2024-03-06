@@ -56,6 +56,15 @@ v10.1.0" <br />
 **Step 8:**  git add hello.js => git commit hello.js => Then config the user.name and user.email ![image](https://github.com/PhuocOng/setup_repo_viettech/assets/122703392/faee90fb-3ddd-411c-9d3c-a22dd5df8229) <br />
 **Step 9:** git push => Follow the instructions to push to remote repo  <br />
 
+**Mac**   <br />
+**Step 1 :** Go to this website https://git-scm.com/download/mac and choose the dowload option that suitable for you <br /> 
+**Step 2:** Test whether git is dowloaded by typing "git --version" in terminal <br />
+**Step 3:** Create a hello.js by terminal in a random file path  <br />
+**Step 4:** Initialize "git init" add that same folder <br />
+**Step 5:**  git add hello.js => git commit hello.js => Then config the user.name and user.email ![image](https://github.com/PhuocOng/setup_repo_viettech/assets/122703392/faee90fb-3ddd-411c-9d3c-a22dd5df8229) <br />
+**Step 6:** git push => Follow the instructions to push to remote repo  <br />
+
+
 **HOW TO SET UP SSH KEY FOR GITHUB**  <br />
 **Window**
 **Step 1:** Open Git bash <br />
