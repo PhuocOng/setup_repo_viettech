@@ -1,7 +1,7 @@
 # setup_repo_viettech
 repository to help new cs students set up their laptop for both MAC and Window
 
-**HOW TO SET UP VSCODE**
+**HOW TO SET UP VSCODE** <br />
 **Window** <br />
 **Step 1:** Go to this website https://code.visualstudio.com/  <br />
 **Step 2:** Choose your system version (Window). Then click the blue dowload button <br /> 
@@ -13,7 +13,7 @@ v10.1.0" <br />
 **Step 7:** (Optional) Watch this tutorial: https://www.youtube.com/watch?v=naL0cZNQh1g <br />
 
  
-**Mac OS**  <br />
+**Mac**  <br />
 **Step 1:** Go to this website https://code.visualstudio.com/ <br />
 **Step 2:** Choose your system version (Mac Universal). Then click the blue dowload button <br />
 **Step 3:** Click to the .zip vscode-univsal file to extract  <br />
@@ -24,7 +24,7 @@ v10.1.0" <br />
 **Step 7:** (Optional) Watch this tutorial: https://www.youtube.com/watch?v=w0xBQHKjoGo <br />
 
 
-**HOW TO SET UP NODE.JS**
+**HOW TO SET UP NODE.JS** <br />
 **Window**   <br />
 **Step 1:** Go to this website https://nodejs.org/en  <br />
 **Step 2:** Choose the "Recommend for most users" version then dowload it  <br />
