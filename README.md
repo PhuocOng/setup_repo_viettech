@@ -68,7 +68,7 @@ v10.1.0" <br />
 
 
 ## **HOW TO SET UP SSH KEY FOR GITHUB**  <br />
-**Window**
+**Window** <br />
 **Step 1:** Open Git bash <br />
 **Step 2:** ssh-keygen -t ed25519 -C "your_email@example.com" => Enter <br />
 **Step 3:** clip < ~/.ssh/id_ed25519.pub => It will copy into our clipboard then we can CTRL + V to see it <br />
@@ -76,7 +76,7 @@ v10.1.0" <br />
 **Step 5:** Test connection: "ssh -T git@github.com"
 **Step 6:** (Optional) Watch this video: https://www.youtube.com/watch?v=X40b9x9BFGo
 
-**Mac**
+**Mac** <br />
 **Step 1:** Open Git bash <br />
 **Step 2:** ssh-keygen -t ed25519 -C "your_email@example.com" => Enter <br />
 **Step 3:** $ pbcopy < ~/.ssh/id_ed25519.pub => It will copy into our clipboard then we can Command + V to see it <br />
