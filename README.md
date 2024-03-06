@@ -48,7 +48,7 @@ v10.1.0" <br />
 **Window**   <br />
 **Step 1:** Go to this website https://git-scm.com/downloads <br />
 **Step 2:** Choose the "Window" version then choose "64-bit Git for Windows Setup." => dowload it  <br />
-**Step 3:** Click the .exe git file to extract and run program
+**Step 3:** Click the .exe git file to extract and run program <br />
 **Step 4:** Next => Next => Click "Additional icons" => Next => "Using Visual Studio Code as Git's default editor" => Let Git Decide => Git from command lind and 3rd-party software => Use bundled openSSH => Use the OpenSSL Library => Check-out window style, commit the Unix-style line endings => USe MinTTY => Default (fast-forward and merge) => GIt Credential Manager => Enable file system caching => Next => Launch Git Bash => Finish! <br /> 
 **Step 5:** Test whether git is dowloaded by typing "git --version" in terminal <br />
 **Step 6:** Create a hello.js by terminal in a random file path  <br />
@@ -73,15 +73,15 @@ v10.1.0" <br />
 **Step 2:** ssh-keygen -t ed25519 -C "your_email@example.com" => Enter <br />
 **Step 3:** clip < ~/.ssh/id_ed25519.pub => It will copy into our clipboard then we can CTRL + V to see it <br />
 **Step 4:** Login to Github Account => Setting => SSH and GPG Keys => New SSH Key => Title: Personal Laptop - Key Type: Authentication key - Key: Pasting your key into here!  <br />
-**Step 5:** Test connection: "ssh -T git@github.com"
-**Step 6:** (Optional) Watch this video: https://www.youtube.com/watch?v=X40b9x9BFGo
+**Step 5:** Test connection: "ssh -T git@github.com" <br />
+**Step 6:** (Optional) Watch this video: https://www.youtube.com/watch?v=X40b9x9BFGo <br />
 
 **Mac** <br />
 **Step 1:** Open Git bash <br />
 **Step 2:** ssh-keygen -t ed25519 -C "your_email@example.com" => Enter <br />
 **Step 3:** $ pbcopy < ~/.ssh/id_ed25519.pub => It will copy into our clipboard then we can Command + V to see it <br />
 **Step 4:** Login to Github Account => Setting => SSH and GPG Keys => New SSH Key => Title: Personal Laptop - Key Type: Authentication key - Key: Pasting your key into here!  <br />
-**Step 5:** Test connection: "ssh -T git@github.com"
+**Step 5:** Test connection: "ssh -T git@github.com" <br />
 **Step 6:** (Optional) Watch this video: https://www.youtube.com/watch?v=cGcpVQlhbuI
 
 ## **HOW TO SET UP POSTMAN** <br />
