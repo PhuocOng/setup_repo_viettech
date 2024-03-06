@@ -55,6 +55,7 @@ v10.1.0" <br />
 **Step 7:** Initialize "git init" add that same folder <br />
 **Step 8:**  git add hello.js => git commit hello.js => Then config the user.name and user.email ![image](https://github.com/PhuocOng/setup_repo_viettech/assets/122703392/faee90fb-3ddd-411c-9d3c-a22dd5df8229) <br />
 **Step 9:** git push => Follow the instructions to push to remote repo  <br />
+**Step 10:** (Optional) Watch video at : https://www.youtube.com/watch?v=AdzKzlp66sQ
 
 **Mac**   <br />
 **Step 1 :** Go to this website https://git-scm.com/download/mac and choose the dowload option that suitable for you <br /> 
@@ -63,15 +64,25 @@ v10.1.0" <br />
 **Step 4:** Initialize "git init" add that same folder <br />
 **Step 5:**  git add hello.js => git commit hello.js => Then config the user.name and user.email ![image](https://github.com/PhuocOng/setup_repo_viettech/assets/122703392/faee90fb-3ddd-411c-9d3c-a22dd5df8229) <br />
 **Step 6:** git push => Follow the instructions to push to remote repo  <br />
+**Step 7:** (Optional) Watch video at : https://www.youtube.com/watch?v=p0Js7IF17yI
 
 
 **HOW TO SET UP SSH KEY FOR GITHUB**  <br />
 **Window**
 **Step 1:** Open Git bash <br />
 **Step 2:** ssh-keygen -t ed25519 -C "your_email@example.com" => Enter <br />
-**Step 3:** clip < ~/.ssh/id_ed25519.pub <br />
+**Step 3:** clip < ~/.ssh/id_ed25519.pub => It will copy into our clipboard then we can CTRL + V to see it <br />
 **Step 4:** Login to Github Account => Setting => SSH and GPG Keys => New SSH Key => Title: Personal Laptop - Key Type: Authentication key - Key: Pasting your key into here!  <br />
 **Step 5:** Test connection: "ssh -T git@github.com"
+**Step 6:** (Optional) Watch this video: https://www.youtube.com/watch?v=X40b9x9BFGo
+
+**Mac**
+**Step 1:** Open Git bash <br />
+**Step 2:** ssh-keygen -t ed25519 -C "your_email@example.com" => Enter <br />
+**Step 3:** $ pbcopy < ~/.ssh/id_ed25519.pub => It will copy into our clipboard then we can Command + V to see it <br />
+**Step 4:** Login to Github Account => Setting => SSH and GPG Keys => New SSH Key => Title: Personal Laptop - Key Type: Authentication key - Key: Pasting your key into here!  <br />
+**Step 5:** Test connection: "ssh -T git@github.com"
+**Step 6:** (Optional) Watch this video: https://www.youtube.com/watch?v=cGcpVQlhbuI
 
 **HOW TO SET UP POSTMAN** <br />
 **Window** <br />
@@ -80,12 +91,14 @@ v10.1.0" <br />
 **Step 3:** Click into .exe postman file to extract <br />
 **Step 4:** Cick Login to run the postman program <br />
 **Step 5:** If it ask for permission, ticked "allow public network" <br />
+**Step 6:** (Optional) Watch this video: https://www.youtube.com/watch?v=pBo_oClYjjM
 
 **Mac**
 **Step 1:** Sign in/Sign up into https://web.postman.co/home <br />
 **Step 2:** Go to https://www.postman.com/downloads/ and dowload your version (ex: Mac Intel Chip / Mac Apple Chip)  <br />
 **Step 3:** Click into dowloaded postman file to extract <br />
 **Step 4:** Cick Login to run the postman program <br />
+**Step 5:** (Optional) Watch this video: https://www.youtube.com/watch?v=i9FQWDx8NIY
 
 
 
