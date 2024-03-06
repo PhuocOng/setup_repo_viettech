@@ -1,7 +1,7 @@
 # setup_repo_viettech
 repository to help new cs students set up their laptop for both MAC and Window
 
-**HOW TO SET UP VSCODE** <br />
+## **HOW TO SET UP VSCODE** <br />
 **Window** <br />
 **Step 1:** Go to this website https://code.visualstudio.com/  <br />
 **Step 2:** Choose your system version (Window). Then click the blue dowload button <br /> 
@@ -24,7 +24,7 @@ v10.1.0" <br />
 **Step 7:** (Optional) Watch this tutorial: https://www.youtube.com/watch?v=w0xBQHKjoGo <br />
 
 
-**HOW TO SET UP NODE.JS** <br />
+## **HOW TO SET UP NODE.JS** <br />
 **Window**   <br />
 **Step 1:** Go to this website https://nodejs.org/en  <br />
 **Step 2:** Choose the "Recommend for most users" version then dowload it  <br />
@@ -44,7 +44,7 @@ v10.1.0" <br />
 **Step 7:** (Optional) Watch this tutorial: https://www.youtube.com/watch?v=SwUKKCS3r3c <br />
 
 
-**HOW TO SET UP GIT** <br /> 
+## **HOW TO SET UP GIT** <br /> 
 **Window**   <br />
 **Step 1:** Go to this website https://git-scm.com/downloads <br />
 **Step 2:** Choose the "Window" version then choose "64-bit Git for Windows Setup." => dowload it  <br />
@@ -67,7 +67,7 @@ v10.1.0" <br />
 **Step 7:** (Optional) Watch video at : https://www.youtube.com/watch?v=p0Js7IF17yI
 
 
-**HOW TO SET UP SSH KEY FOR GITHUB**  <br />
+## **HOW TO SET UP SSH KEY FOR GITHUB**  <br />
 **Window**
 **Step 1:** Open Git bash <br />
 **Step 2:** ssh-keygen -t ed25519 -C "your_email@example.com" => Enter <br />
@@ -84,7 +84,7 @@ v10.1.0" <br />
 **Step 5:** Test connection: "ssh -T git@github.com"
 **Step 6:** (Optional) Watch this video: https://www.youtube.com/watch?v=cGcpVQlhbuI
 
-**HOW TO SET UP POSTMAN** <br />
+## **HOW TO SET UP POSTMAN** <br />
 **Window** <br />
 **Step 1:** Sign in/Sign up into https://web.postman.co/home <br />
 **Step 2:** Go to https://www.postman.com/downloads/ and dowload your version (ex: window 64-bit)  <br />
@@ -93,7 +93,7 @@ v10.1.0" <br />
 **Step 5:** If it ask for permission, ticked "allow public network" <br />
 **Step 6:** (Optional) Watch this video: https://www.youtube.com/watch?v=pBo_oClYjjM
 
-**Mac**
+**Mac** <br />
 **Step 1:** Sign in/Sign up into https://web.postman.co/home <br />
 **Step 2:** Go to https://www.postman.com/downloads/ and dowload your version (ex: Mac Intel Chip / Mac Apple Chip)  <br />
 **Step 3:** Click into dowloaded postman file to extract <br />
