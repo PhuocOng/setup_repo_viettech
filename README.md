@@ -100,5 +100,8 @@ v10.1.0" + "Material Icon Theme" + "Git Blame" + "Git Graph"<br />
 **Step 4:** Cick Login to run the postman program <br />
 **Step 5:** (Optional) Watch this video: https://www.youtube.com/watch?v=i9FQWDx8NIY
 
+## **HOW TO SET UP Oh My Zsh!** <br />
+
+
 
 
